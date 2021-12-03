@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ruben/Desktop/PGL -  Entorno de desarrollo Android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/layout/activity_configuration.xml" value="0.25" />
+        <entry key="..\:/Users/Ruben/Desktop/PGL -  Entorno de desarrollo Android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Ruben/Desktop/PGL -  Entorno de desarrollo Android/AndroidStudioProjects/PGV/app/src/main/res/layout/activity_configuracion.xml" value="0.1" />
+        <entry key="..\:/Users/Ruben/Desktop/PGL -  Entorno de desarrollo Android/AndroidStudioProjects/PGV/app/src/main/res/layout/activity_configuration.xml" value="0.25" />
+        <entry key="..\:/Users/Ruben/Desktop/PGL -  Entorno de desarrollo Android/AndroidStudioProjects/PGV/app/src/main/res/layout/activity_detalle.xml" value="0.1" />
+        <entry key="..\:/Users/Ruben/Desktop/PGL -  Entorno de desarrollo Android/AndroidStudioProjects/PGV/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Ruben/Desktop/PGL -  Entorno de desarrollo Android/AndroidStudioProjects/PGV/app/src/main/res/layout/lista_pelicula.xml" value="0.33" />
+        <entry key="..\:/Users/Ruben/Desktop/PGL -  Entorno de desarrollo Android/AndroidStudioProjects/PGV/app/src/main/res/menu/menu_main.xml" value="0.25" />
+        <entry key="..\:/Users/Ruben/Desktop/PGL -  Entorno de desarrollo Android/AndroidStudioProjects/PGV/app/src/main/res/xml/seguridad.xml" value="0.13055555555555556" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16111111111111112" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.15555555555555556" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16111111111111112" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/layout/activity_acercade.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/layout/activity_actores.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/layout/activity_configuration.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/layout/activity_detalle.xml" value="0.33" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/layout/lista_actores.xml" value="0.1" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/layout/lista_pelicula.xml" value="0.25" />
+        <entry key="..\:/android/AndroidStudioProjects/PGV/Peliculas_Sincronas/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
